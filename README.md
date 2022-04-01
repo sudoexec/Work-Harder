@@ -18,6 +18,7 @@ Work Harder中的Work不要狭隘地理解为工作，在这里，Work指做事�
 - [TK的回答：如何让黑哥将多年的功力传授于我？](http://zhi.hu/amqn)
 - [小四：你尽力了吗？](https://www.cnblogs.com/adward/archive/2008/12/03/1346403.html)
 - [余弦：做好特定领域者](https://mp.weixin.qq.com/s/MTUx85RCn5V8f46aOSHpvQ)
+- [从“挂科大王”到网络安全布道者，云舒的那些“面壁”时刻](https://mp.weixin.qq.com/s/3LnWvCY3-c87FM5cXu6NLw)
 
 ## 自律
 - [Discipline = Freedom](https://www.prageru.com/video/discipline-freedom)
